@@ -1,0 +1,19 @@
+body {
+  background-color: #1E1E1E;
+  margin: 20px;
+}
+h1 {
+  color: #1abc9c;
+}
+.rem {
+  margin-left: 5px;
+  background-color: #1E1E1E;
+  color: red;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+#mylist {
+  color: white;
+  font-weight: normal;
+}
